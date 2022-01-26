@@ -1,3 +1,7 @@
+"""
+Resources: https://www.youtube.com/watch?v=Jn0PpzB14Y8
+"""
+
 import sys
 import os
 
